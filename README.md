@@ -26,7 +26,7 @@ pip install webtranspose
 
 1. **OpenAI Assitants API**. Using Webᵀ Crawl to build a website chatbot using the OpenAI Assistants API.
 
-    - Blog can be found [here](https://webtranspose.com/blog/examples/gpts-website-chatbot).
+    - Blog can be found [here](https://webtranspose.com/blog/examples/assistants-api-website-chatbot).
     - Code can be found in `crawl-tutorials/openai-assistants-api.ipynb`
 
 <br/>
