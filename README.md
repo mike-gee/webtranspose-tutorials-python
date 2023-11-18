@@ -1,24 +1,33 @@
-# Web Transpose Tutorials - Python
-
-Webᵀ allows you to easily integrate the latest web data into your LLM applications.
+<a href="https://webtranspose.com">
+  <img alt="Web Transpose. Simple APIs to get data from the internet." src="assets/github-cover.png" width="100%" />
+  <h1 align="center">Web Transpose Python SDK Tutorials</h1>
+  <p align="center"><b>
+    Web Crawler & AI Web Scraper APIs for building new web experiences.
+  </b></p>
+</a>
+<p align="center">
+  <a href="https://webtranspose.com"><strong>Website</strong></a> ·
+  <a href="https://docs.webtranspose.com"><strong>Docs</strong></a> ·
+  <a href="https://webtranspose.com/blog"><strong>Blog</strong></a> ·
+  <a href="https://twitter.com/mikegeecmu"><strong>Twitter</strong></a>
+</p>
 
 ---
 
-![Web Transpose Banner](assets/github-cover.png)
+Webᵀ allows you to easily integrate the latest web data into your LLM applications.
+
+```
+pip install webtranspose
+```
+
+---
 
 ## Contents
 
-1. **Finetuning & Web Data**. Using Webᵀ Crawl to **finetune** OpenAI GPT 3.5.
+1. **OpenAI Assitants API**. Using Webᵀ Crawl to build a website chatbot using the OpenAI Assistants API.
 
-    - Blog can be found [here](https://webtranspose.com/blog/finetuning).
-    - Code can be found in `crawl-tutorials/finetuning/Finetuning_OpenAI_LLM_using_Website_Data_from_Webᵀ_Crawl.ipynb`
-
-<br/>
-
-2. **Vector Database & Web Data.** Using Webᵀ Crawl for **Vector Database** retrieval using OpenAI GPT 3.5 and LangChain.
-
-    - Blog can be found [here](https://webtranspose.com/blog/vector-db).
-    - Code can be found in `crawl-tutorials/vector-db/Building_a_Website_Chatbot_with_LangChain,_Pinecone,_and_Webᵀ_Crawl.ipynb`
+    - Blog can be found [here](https://webtranspose.com/blog/examples/gpts-website-chatbot).
+    - Code can be found in `crawl-tutorials/openai-assistants-api.ipynb`
 
 <br/>
 
