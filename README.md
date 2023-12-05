@@ -14,7 +14,7 @@
 
 ---
 
-Webᵀ allows you to easily integrate the latest web data into your LLM applications.
+Web Transpose is a simple developer API for getting website data. It allows you to get reliable, structured web data for building applications.
 
 ```
 pip install webtranspose
@@ -24,7 +24,13 @@ pip install webtranspose
 
 ## Contents
 
-1. **OpenAI Assitants API**. Using Webᵀ Crawl to build a website chatbot using the OpenAI Assistants API.
+1. **How to build the [PG Number](https://pgnumber.com/)**. Using Webᵀ Scrape and AI SERP API to build a recursive graph of everybody Paul Graham has ever thanked in his essays.
+
+    - Blog can be found [here](https://webtranspose.com/blog/examples/pg-number)
+    - Code can be found in `scrape-tutorials/pg-number.ipynb`
+    - [PG Number](https://pgnumber.com/) can be [found here](https://pgnumber.com/).
+
+2. **OpenAI Assitants API**. Using Webᵀ Crawl to build a website chatbot using the OpenAI Assistants API.
 
     - Blog can be found [here](https://webtranspose.com/blog/examples/assistants-api-website-chatbot).
     - Code can be found in `crawl-tutorials/openai-assistants-api.ipynb`
@@ -34,5 +40,5 @@ pip install webtranspose
 
 ## Learn More
 
-Learn more about Webᵀ Crawl at [webtranspose.com](https://webtranspose.com).
+Learn more about Web Transpose at [webtranspose.com](https://webtranspose.com).
 
